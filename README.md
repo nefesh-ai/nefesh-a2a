@@ -92,6 +92,7 @@ Same API key, same backend, same free tier. Choose the protocol that fits your a
 
 - [A2A Protocol Specification](https://a2a-protocol.org/latest/specification/)
 - [Nefesh MCP Server](https://github.com/nefesh-ai/nefesh-mcp-server)
+- [Nefesh Gateway](https://github.com/nefesh-ai/nefesh-gateway)
 - [Human State Protocol](https://github.com/nefesh-ai/human-state-protocol)
 - [API Documentation](https://nefesh.ai/docs)
 - [Live Demo](https://sandbox.nefesh.ai)
