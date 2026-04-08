@@ -2,6 +2,8 @@
 
 A2A v1.0 (Agent-to-Agent Protocol) reference implementation for the Nefesh Human State Agent.
 
+**Docs:** [nefesh.ai/docs/a2a](https://nefesh.ai/docs/a2a) · **Endpoint:** [mcp.nefesh.ai/a2a](https://mcp.nefesh.ai/a2a) · **Agent Card:** [agent-card.json](https://mcp.nefesh.ai/.well-known/agent-card.json)
+
 ## What is this?
 
 While [MCP](https://github.com/nefesh-ai/nefesh-mcp-server) handles tool-calling (your agent calls Nefesh), A2A enables agent-collaboration. Other AI agents can communicate with Nefesh as a peer agent, not just as a tool.
